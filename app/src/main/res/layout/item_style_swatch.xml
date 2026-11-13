@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="@dimen/spacing_sm">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/swatchCard"
+        android:layout_width="@dimen/style_swatch_size"
+        android:layout_height="@dimen/style_swatch_size"
+        android:clickable="true"
+        android:focusable="true"
+        app:cardCornerRadius="23dp"
+        app:cardElevation="2dp"
+        app:strokeColor="@color/qv_white_translucent_20"
+        app:strokeWidth="2dp"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <View
+            android:id="@+id/viewSwatchFill"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_gradient_royal_velvet" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <View
+        android:id="@+id/viewSwatchSelectedRing"
+        android:layout_width="@dimen/style_swatch_size"
+        android:layout_height="@dimen/style_swatch_size"
+        android:background="@drawable/bg_swatch_selected"
+        android:visibility="gone" />
+
+</FrameLayout>
+

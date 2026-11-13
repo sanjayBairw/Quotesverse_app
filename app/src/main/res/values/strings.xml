@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuoteVerse</string>
+    <string name="app_tagline">Daily Inspiration</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Greetings -->
+    <string name="greeting_morning">Good morning</string>
+    <string name="greeting_afternoon">Good afternoon</string>
+    <string name="greeting_evening">Good evening</string>
+    <string name="greeting_night">Good evening</string>
+    <string name="home_subtitle">Curated words to elevate your day</string>
+
+    <!-- Home Screen -->
+    <string name="badge_quote_of_the_day">QUOTE OF THE DAY</string>
+    <string name="badge_curated_pick">CURATED PICK</string>
+    <string name="action_new_quote">New Quote</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_share">Share</string>
+    <string name="action_save_image">Save Image</string>
+    <string name="section_categories">Browse Categories</string>
+    <string name="section_trending">Trending Quotes</string>
+    <string name="section_recently_viewed">Recently Viewed</string>
+    <string name="author_prefix">— %1$s</string>
+    <string name="quote_mark_glyph">“</string>
+
+    <!-- Categories -->
+    <string name="category_all">All</string>
+    <string name="category_motivation">Motivation</string>
+    <string name="category_success">Success</string>
+    <string name="category_life">Life</string>
+    <string name="category_love">Love</string>
+    <string name="category_happiness">Happiness</string>
+    <string name="category_wisdom">Wisdom</string>
+    <string name="category_friendship">Friendship</string>
+    <string name="category_attitude">Attitude</string>
+    <string name="category_study">Study</string>
+    <string name="category_inspirational">Inspirational</string>
+
+    <!-- Explore Screen -->
+    <string name="explore_title">Explore</string>
+    <string name="explore_subtitle">Discover wisdom across timeless themes</string>
+    <string name="search_hint">Search quotes or authors…</string>
+    <string name="quote_count_format">%1$d quotes</string>
+    <string name="quote_count_single">1 quote</string>
+    <string name="explore_empty_title">No matching quotes</string>
+    <string name="explore_empty_subtitle">Try another keyword, author name, or clear your category filter.</string>
+    <string name="action_reset_filters">Reset Filters</string>
+
+    <!-- Favorites Screen -->
+    <string name="favorites_title">Favorites</string>
+    <string name="favorites_count_zero">Your personal collection</string>
+    <string name="favorites_count_single">1 saved quote</string>
+    <string name="favorites_count_multiple">%1$d saved quotes</string>
+    <string name="favorites_empty_title">No favorite quotes yet</string>
+    <string name="favorites_empty_subtitle">Tap the heart on any quote that moves you to save it here for offline reflection.</string>
+    <string name="action_explore_quotes">Explore Quotes</string>
+    <string name="snackbar_added_favorite">Added to favorites</string>
+    <string name="snackbar_removed_favorite">Removed from favorites</string>
+    <string name="action_undo">Undo</string>
+
+    <!-- Quote Details Screen -->
+    <string name="details_title">Quote Details</string>
+    <string name="details_style_label">Card Atmosphere</string>
+    <string name="details_quote_not_found">Quote could not be loaded.</string>
+    <string name="style_royal_velvet">Royal Velvet</string>
+    <string name="style_twilight_lavender">Twilight Lavender</string>
+    <string name="style_obsidian_gold">Obsidian Gold</string>
+    <string name="style_rose_dusk">Rose Dusk</string>
+    <string name="style_cosmic_indigo">Cosmic Indigo</string>
+    <string name="style_warm_amber">Warm Amber</string>
+    <string name="snackbar_image_saved">Quote image saved to Pictures/QuoteVerse</string>
+    <string name="snackbar_image_save_failed">Could not save quote image. Please try again.</string>
+    <string name="snackbar_storage_permission_denied">Storage permission is required to save images on this Android version.</string>
+
+    <!-- Actions / Clipboard / Share -->
+    <string name="clipboard_label_quote">QuoteVerse Quote</string>
+    <string name="snackbar_quote_copied">Quote copied to clipboard</string>
+    <string name="snackbar_copy_failed">Could not copy quote</string>
+    <string name="share_quote_subject">Quote from QuoteVerse</string>
+    <string name="share_quote_chooser_title">Share quote via</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_subtitle">Personalize your reading experience</string>
+    <string name="settings_section_appearance">Appearance</string>
+    <string name="settings_theme_label">App Theme</string>
+    <string name="settings_theme_description">Switch between light, dark, or system default</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+
+    <string name="settings_section_notifications">Daily Reminder</string>
+    <string name="settings_daily_notification_title">Daily Quote Notification</string>
+    <string name="settings_daily_notification_subtitle">Receive a curated offline quote every day</string>
+    <string name="settings_notification_time_title">Reminder Time</string>
+    <string name="settings_time_picker_title">Select Daily Reminder Time</string>
+    <string name="settings_test_notification_title">Send Test Notification</string>
+    <string name="settings_test_notification_subtitle">Verify alert sound, banner, and permissions now</string>
+    <string name="action_send_test">Test</string>
+    <string name="exact_alarm_dialog_title">Allow Exact Reminders</string>
+    <string name="exact_alarm_dialog_message">To deliver your daily quote at the exact minute you choose, please allow \"Alarms &amp; reminders\" for QuoteVerse in Android settings.</string>
+    <string name="action_open_settings">Allow</string>
+    <string name="snackbar_notification_scheduled">Daily inspiration scheduled for %1$s</string>
+    <string name="snackbar_notification_disabled">Daily quote reminders turned off</string>
+    <string name="snackbar_notification_permission_denied">Notification permission is needed to send daily reminders.</string>
+    <string name="snackbar_test_notification_sent">Test notification sent</string>
+
+    <!-- ZenQuotes & Data Sync -->
+    <string name="settings_section_quote_source">Quote Source &amp; Sync</string>
+    <string name="settings_zenquotes_title">ZenQuotes API</string>
+    <string name="settings_zenquotes_subtitle">Inspirational quotes provided by ZenQuotes API</string>
+    <string name="settings_sync_batch_title">Sync Quotes Batch</string>
+    <string name="settings_sync_batch_subtitle">Download 50 quotes and cache offline</string>
+    <string name="settings_sync_today_title">Sync Today\'s Quote</string>
+    <string name="settings_sync_today_subtitle">Fetch official Quote of the Day from ZenQuotes</string>
+    <string name="action_sync_now">Sync Now</string>
+    <string name="action_sync">Sync</string>
+    <string name="badge_zenquotes">ZENQUOTES</string>
+    <string name="home_attribution_text">Inspirational quotes provided by ZenQuotes API</string>
+    <string name="attribution_dialog_title">ZenQuotes API Attribution</string>
+    <string name="attribution_dialog_message">Inspirational quotes provided by ZenQuotes API (https://zenquotes.io).\n\nQuoteVerse connects to the free ZenQuotes API using an offline-first architecture, smart batch caching, duplicate prevention, and automatic rate-limit throttling (5 requests per 30 seconds).</string>
+    <string name="action_visit_website">Visit ZenQuotes</string>
+    <string name="action_retry">Retry</string>
+    <string name="status_offline_mode">Offline Mode • Browsing cached quotes</string>
+    <string name="status_rate_limited">Rate limit reached • Please wait</string>
+
+    <string name="settings_section_about">About</string>
+    <string name="settings_about_title">About QuoteVerse</string>
+    <string name="settings_about_subtitle">Offline editorial collection of %1$d curated quotes</string>
+    <string name="about_dialog_message">QuoteVerse – Daily Inspiration is an offline-first sanctuary for timeless wisdom, literary brilliance, and daily motivation.\n\nFeaturing curated classics and fresh batches powered by ZenQuotes API (https://zenquotes.io). All quotes, favorites, and preferences are safely cached locally on your device with Room Database.</string>
+    <string name="settings_privacy_title">Privacy Policy</string>
+    <string name="settings_privacy_subtitle">100% offline • Zero tracking or data collection</string>
+    <string name="privacy_dialog_message">QuoteVerse respects your privacy completely.\n\n• No internet connection is required or used.\n• No analytics, trackers, or advertisements.\n• Your favorite quotes, theme preference, and reminder schedule remain strictly on your device.</string>
+    <string name="settings_version_title">App Version</string>
+    <string name="action_close">Close</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">Daily Quote Inspiration</string>
+    <string name="notification_channel_description">Daily offline reminder featuring your Quote of the Day</string>
+    <string name="notification_daily_title">QuoteVerse • Daily Inspiration</string>
+
+    <!-- Typography & Fonts -->
+    <string name="font_serif">Editorial Serif</string>
+    <string name="font_sans">Modern Sans</string>
+    <string name="font_monospace">Classic Monospace</string>
+    <string name="font_casual">Casual Script</string>
+    <string name="settings_font_title">Reading Typography</string>
+    <string name="settings_font_subtitle">Customize default quote font</string>
+    <string name="settings_font_dialog_title">Select Reading Font</string>
+    <string name="details_font_label">Typography</string>
+    <string name="details_size_label">Font Size</string>
+    <string name="action_decrease_font">Decrease text size</string>
+    <string name="action_increase_font">Increase text size</string>
+
+    <!-- Sharing & Image Export -->
+    <string name="action_share_image">Share Image</string>
+    <string name="action_share_text">Share Text</string>
+    <string name="dialog_share_title">Share Inspiration</string>
+    <string name="dialog_share_as_image">Share as 1080×1350 Poster</string>
+    <string name="dialog_share_as_text">Share Quote Text</string>
+    <string name="share_image_preparing">Generating poster…</string>
+    <string name="share_image_error">Failed to generate image.</string>
+
+    <!-- Accessibility Content Descriptions -->
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_favorite_toggle">Toggle favorite</string>
+    <string name="cd_copy_quote">Copy quote</string>
+    <string name="cd_share_quote">Share quote</string>
+    <string name="cd_save_image">Save quote as image</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_empty_favorites">Empty favorites illustration</string>
+    <string name="cd_empty_search">No search results illustration</string>
+    <string name="cd_category_icon">Category icon</string>
+    <string name="cd_style_swatch">Select gradient style %1$s</string>
+</resources>
+

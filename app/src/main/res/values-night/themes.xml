@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.QuoteVerse" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/qv_secondary</item>
+        <item name="colorOnPrimary">@color/qv_on_secondary</item>
+        <item name="colorPrimaryContainer">@color/qv_primary</item>
+        <item name="colorOnPrimaryContainer">@color/qv_on_primary</item>
+
+        <item name="colorSecondary">@color/qv_secondary</item>
+        <item name="colorOnSecondary">@color/qv_on_secondary</item>
+        <item name="colorSecondaryContainer">@color/qv_dark_surface_variant</item>
+        <item name="colorOnSecondaryContainer">@color/qv_dark_text_primary</item>
+
+        <item name="colorTertiary">@color/qv_accent_gold</item>
+        <item name="colorOnTertiary">@color/qv_on_accent_gold</item>
+
+        <item name="android:colorBackground">@color/qv_dark_background</item>
+        <item name="colorSurface">@color/qv_dark_surface</item>
+        <item name="colorSurfaceContainer">@color/qv_dark_surface</item>
+        <item name="colorSurfaceContainerLow">@color/qv_dark_surface</item>
+        <item name="colorSurfaceContainerHigh">@color/qv_dark_surface_variant</item>
+        <item name="colorSurfaceVariant">@color/qv_dark_surface_variant</item>
+        <item name="colorOnSurface">@color/qv_dark_text_primary</item>
+        <item name="colorOnSurfaceVariant">@color/qv_dark_text_secondary</item>
+        <item name="colorOutlineVariant">@color/qv_dark_outline</item>
+
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_xxs">4dp</dimen>
+    <dimen name="spacing_xs">8dp</dimen>
+    <dimen name="spacing_sm">12dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+
+    <dimen name="radius_chip">16dp</dimen>
+    <dimen name="radius_card">22dp</dimen>
+    <dimen name="radius_hero">28dp</dimen>
+
+    <dimen name="card_elevation_subtle">2dp</dimen>
+    <dimen name="card_elevation_hero">8dp</dimen>
+
+    <dimen name="icon_size_sm">18dp</dimen>
+    <dimen name="icon_size_md">22dp</dimen>
+    <dimen name="icon_size_lg">26dp</dimen>
+    <dimen name="icon_size_empty">84dp</dimen>
+
+    <dimen name="recent_card_width">260dp</dimen>
+    <dimen name="category_card_width">124dp</dimen>
+    <dimen name="style_swatch_size">46dp</dimen>
+
+    <dimen name="text_hero_quote">22sp</dimen>
+    <dimen name="text_detail_quote">26sp</dimen>
+    <dimen name="text_card_quote">17sp</dimen>
+    <dimen name="text_section_title">19sp</dimen>
+    <dimen name="text_screen_title">28sp</dimen>
+</resources>
+

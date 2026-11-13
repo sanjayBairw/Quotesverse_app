@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Brand Palette -->
+    <color name="qv_primary">#6750A4</color>
+    <color name="qv_on_primary">#FFFFFF</color>
+    <color name="qv_primary_container">#E9DDFF</color>
+    <color name="qv_on_primary_container">#22005D</color>
+
+    <color name="qv_secondary">#B69DF8</color>
+    <color name="qv_on_secondary">#271456</color>
+    <color name="qv_secondary_container">#EFE8FF</color>
+    <color name="qv_on_secondary_container">#2A1A5E</color>
+
+    <color name="qv_accent_gold">#F4C95D</color>
+    <color name="qv_on_accent_gold">#261A00</color>
+
+    <!-- Light Theme Surfaces -->
+    <color name="qv_light_background">#F8F7FC</color>
+    <color name="qv_light_surface">#FFFFFF</color>
+    <color name="qv_light_surface_variant">#F0ECF8</color>
+    <color name="qv_light_text_primary">#1B1824</color>
+    <color name="qv_light_text_secondary">#625B71</color>
+    <color name="qv_light_outline">#E2DCEB</color>
+
+    <!-- Dark Theme Surfaces (Charcoal) -->
+    <color name="qv_dark_background">#121116</color>
+    <color name="qv_dark_surface">#1D1B24</color>
+    <color name="qv_dark_surface_variant">#292634</color>
+    <color name="qv_dark_text_primary">#F4F1FA</color>
+    <color name="qv_dark_text_secondary">#B8B1C9</color>
+    <color name="qv_dark_outline">#353142</color>
+
+    <!-- Semantic Theme Aliases (overridden or resolved via ?attr in layouts, plus direct tokens) -->
+    <color name="qv_favorite_active">#FF5D7A</color>
+    <color name="qv_white_translucent_20">#33FFFFFF</color>
+    <color name="qv_white_translucent_12">#1FFFFFFF</color>
+    <color name="qv_white_translucent_80">#CCFFFFFF</color>
+    <color name="qv_gold_translucent_22">#38F4C95D</color>
+    <color name="qv_black_translucent_30">#4D000000</color>
+</resources>
+
