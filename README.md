@@ -6,6 +6,12 @@
 
 QuoteVerse provides a serene, distraction-free space for daily reflection and literary inspiration. Pre-populated with **110 curated classic, literary, and traditional quotes** across 10 timeless themes, every feature works completely offline. Connected users enjoy live quotes from the free **ZenQuotes API** without needing an API key, featuring intelligent batch caching, duplicate prevention, and strict rate-limit protection.
 
+## Screenshots
+
+| Home Screen | Explore & Categories | Settings & Typography |
+|:---:|:---:|:---:|
+| <img src="screenshots/home_screen.jpg" width="260" alt="QuoteVerse Home Screen" /> | <img src="screenshots/explore_screen.jpg" width="260" alt="QuoteVerse Explore Screen" /> | <img src="screenshots/settings_screen.jpg" width="260" alt="QuoteVerse Settings Screen" /> |
+
 ## Features
 
 - **Home Screen**
